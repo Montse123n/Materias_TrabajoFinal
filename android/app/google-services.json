@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414958453059",
+    "project_id": "profesores-9471f",
+    "storage_bucket": "profesores-9471f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414958453059:android:5bc9dc4a80147c1938aff6",
+        "android_client_info": {
+          "package_name": "com.example.profesores1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB738W90XO5hJO8wQmfi7XgoopMhP7cdMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
